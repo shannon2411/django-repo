@@ -1,0 +1,1 @@
+web: gunicorn PROYEK_PERTAMA.wsgi --log-file -
